@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [abstract](https://github.com/abstractpbc/abstract-cli) - Teaches an agent to call the Abstract API: CLI sign-in without exposing the key, OpenAI-compatible LLM models (GLM-5.3, DeepSeek-V4-Flash, Kimi-K3) and robot action models. Install with `abstract skill install`.
 
 
 ## 📊 Data & Analysis
